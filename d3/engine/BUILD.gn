@@ -1,0 +1,5 @@
+executable("engine") {
+    sources = [
+        "main.cpp",
+    ]
+}
